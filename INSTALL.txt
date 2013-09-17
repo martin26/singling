@@ -1,0 +1,23 @@
+Singling 1.0.0 for 1.13d
+By Jonathan Vasquez (FearedBliss)
+Released on Tuesday, September 17, 2013
+------------------------------------------------
+
+Installation:
+-------------
+1. Make sure to backup your current Diablo II directory before installing. 
+   A simple copy/paste of your current Diablo II folder will do.
+
+2. Extract and replace the following files into your Diablo II directory:
+
+-> Patch_D2.mpq
+-> D2gfx.dll
+
+3. Enjoy.
+
+
+
+
+Uninstallation:
+---------------
+Delete your Diablo II folder, and rename your old backup copy of Diablo II to 'Diablo II'.

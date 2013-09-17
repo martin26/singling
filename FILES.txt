@@ -1,0 +1,33 @@
+﻿Singling 1.0.0 for 1.13d
+By Jonathan Vasquez (FearedBliss)
+Released on Tuesday, September 17, 2013
+------------------------------------------------
+
+.
+├── CHANGES.txt
+├── CREDITS.txt
+├── Changes
+│   └── data
+│       └── global
+│           ├── excel
+│           │   ├── Experience.txt
+│           │   └── Runes.txt
+│           └── ui
+│               └── FrontEnd
+│                   ├── gameselectscreenEXP.dc6
+│                   └── trademarkscreenEXP.dc6
+├── D2gfx.dll
+├── FILES.txt
+├── INSTALL.txt
+├── Modding
+│   ├── Code_Edits
+│   │   └── D2gfx_Multiple_D2_Windows.txt
+│   ├── GIMP Images
+│   │   ├── gameselectscreenEXP.xcf
+│   │   └── trademarkscreenEXP.xcf
+│   ├── README.txt
+│   └── WHATIS.txt
+├── Patch_D2.mpq
+└── README.txt
+
+9 directories, 16 files

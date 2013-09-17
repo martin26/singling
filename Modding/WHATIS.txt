@@ -1,0 +1,11 @@
+Singling 1.0.0 for 1.13d
+By Jonathan Vasquez (FearedBliss)
+Released on Tuesday, September 17, 2013
+------------------------------------------------
+
+D2gfx.dll 
+	- Multiple Diablo II Windows
+
+Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
+Runes.txt - Runewords
+
