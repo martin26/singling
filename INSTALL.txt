@@ -1,4 +1,4 @@
-Singling 1.0.0 for 1.13d
+Singling 1.0.1 for 1.13d
 By Jonathan Vasquez (FearedBliss)
 Released on Tuesday, September 17, 2013
 ------------------------------------------------

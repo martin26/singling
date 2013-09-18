@@ -1,7 +1,11 @@
-Singling 1.0.0 for 1.13d
+Singling 1.0.1 for 1.13d
 By Jonathan Vasquez (FearedBliss)
 Released on Tuesday, September 17, 2013
 ------------------------------------------------
+
+1.0.1
+-------------------
+- Experience.txt has been removed. Experience ratio is back to Vanilla. This mod is now = to RWM + Modified dll all in one bundle.
 
 1.0.0
 -------------------

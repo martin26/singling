@@ -1,4 +1,4 @@
-﻿Singling 1.0.0 for 1.13d
+﻿Singling 1.0.1 for 1.13d
 By Jonathan Vasquez (FearedBliss)
 Released on Tuesday, September 17, 2013
 ------------------------------------------------
@@ -10,7 +10,6 @@ Released on Tuesday, September 17, 2013
 │   └── data
 │       └── global
 │           ├── excel
-│           │   ├── Experience.txt
 │           │   └── Runes.txt
 │           └── ui
 │               └── FrontEnd
@@ -30,4 +29,4 @@ Released on Tuesday, September 17, 2013
 ├── Patch_D2.mpq
 └── README.txt
 
-9 directories, 16 files
+9 directories, 15 files
