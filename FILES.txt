@@ -1,24 +1,45 @@
-﻿Singling 1.0.1 for 1.13d
+﻿Singling 1.0.2 for 1.09b/d, 1.13d
 By Jonathan Vasquez (FearedBliss)
-Released on Tuesday, September 17, 2013
+Released on Sunday, September 22, 2013
 ------------------------------------------------
 
 .
+├── 1.09bd
+│   ├── 1.09b
+│   │   └── D2gfx.dll
+│   ├── 1.09d
+│   │   └── D2gfx.dll
+│   └── Patch_D2.mpq
+├── 1.13d
+│   ├── D2gfx.dll
+│   └── Patch_D2.mpq
 ├── CHANGES.txt
 ├── CREDITS.txt
-├── Changes
-│   └── data
-│       └── global
-│           ├── excel
-│           │   └── Runes.txt
-│           └── ui
-│               └── FrontEnd
-│                   ├── gameselectscreenEXP.dc6
-│                   └── trademarkscreenEXP.dc6
-├── D2gfx.dll
 ├── FILES.txt
 ├── INSTALL.txt
 ├── Modding
+│   ├── Changes
+│   │   ├── 1.09bd
+│   │   │   └── data
+│   │   │       ├── global
+│   │   │       │   └── ui
+│   │   │       │       └── FrontEnd
+│   │   │       │           ├── gameselectscreenEXP.dc6
+│   │   │       │           └── trademarkscreenEXP.dc6
+│   │   │       └── local
+│   │   │           └── lng
+│   │   │               └── eng
+│   │   │                   ├── expansionstring.tbl
+│   │   │                   └── patchstring.tbl
+│   │   └── 1.13d
+│   │       └── data
+│   │           └── global
+│   │               ├── excel
+│   │               │   └── Runes.txt
+│   │               └── ui
+│   │                   └── FrontEnd
+│   │                       ├── gameselectscreenEXP.dc6
+│   │                       └── trademarkscreenEXP.dc6
 │   ├── Code_Edits
 │   │   └── D2gfx_Multiple_D2_Windows.txt
 │   ├── GIMP Images
@@ -26,7 +47,6 @@ Released on Tuesday, September 17, 2013
 │   │   └── trademarkscreenEXP.xcf
 │   ├── README.txt
 │   └── WHATIS.txt
-├── Patch_D2.mpq
 └── README.txt
 
-9 directories, 15 files
+22 directories, 22 files

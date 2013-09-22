@@ -1,6 +1,6 @@
-Singling 1.0.1 for 1.13d
+Singling 1.0.2 for 1.09b/d, 1.13d
 By Jonathan Vasquez (FearedBliss)
-Released on Tuesday, September 17, 2013
+Released on Sunday, September 22, 2013
 ------------------------------------------------
 
 Installation:
@@ -16,8 +16,15 @@ Installation:
 3. Enjoy.
 
 
-
-
 Uninstallation:
 ---------------
 Delete your Diablo II folder, and rename your old backup copy of Diablo II to 'Diablo II'.
+
+
+Multiple D2 Clients:
+---------------
+To run multiple copies of D2 in 1.13d is easy. Just double click the 'Diablo II' shortcut on your desktop,
+as many times as you want.
+
+However, for 1.09d you need to make a shortcut that points to the 'Game.exe' file rather than the 'Diablo II.exe' file.
+Once your Diablo II shortcut is opening up 'Game.exe', rather than 'Diablo II.exe' it will work.

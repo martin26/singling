@@ -1,8 +1,17 @@
-Singling 1.0.1 for 1.13d
+Singling 1.0.2 for 1.09b/d, 1.13d
 By Jonathan Vasquez (FearedBliss)
-Released on Tuesday, September 17, 2013
+Released on Sunday, September 22, 2013
 ------------------------------------------------
 
+1.09b/d
+-----------------
+D2gfx.dll 
+	- Multiple Diablo II Windows
+
+expansionstring.tbl, patchstring.tbl - Strings for Colored Runes
+
+1.13d
+-----------------
 D2gfx.dll 
 	- Multiple Diablo II Windows
 

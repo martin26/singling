@@ -1,11 +1,15 @@
-Singling 1.0.1 for 1.13d
+Singling 1.0.2 for 1.09b/d, 1.13d
 By Jonathan Vasquez (FearedBliss)
-Released on Tuesday, September 17, 2013
+Released on Sunday, September 22, 2013
 ------------------------------------------------
+
+1.0.2
+-------------------
+- Added 1.09b/d support. 1.09b/d now has colored runes and you can also open multiple copies of d2.
 
 1.0.1
 -------------------
-- Experience.txt has been removed. Experience ratio is back to Vanilla. This mod is now = to RWM + Modified dll all in one bundle.
+- Experience.txt has been removed. Experience ratio is back to Vanilla. This mod is now equal to RWM + Modified dll all in one bundle.
 
 1.0.0
 -------------------
