@@ -1,7 +1,12 @@
-Singling 1.0.2 for 1.09b/d, 1.13d
+Singling 1.0.3 for 1.07 - 1.13d
 By Jonathan Vasquez (FearedBliss)
-Released on Sunday, September 22, 2013
+Released on Monday, September 30, 2013
 ------------------------------------------------
+
+1.0.3
+-------------------
+- Added support for the remaining patches expansion patches (Starting from 1.07 - One version of each patch was picked)
+- Removed support for 1.09b (In accordance with the above - one version of each patch. This makes it easier for me to maintain as well)
 
 1.0.2
 -------------------

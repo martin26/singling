@@ -1,27 +1,88 @@
-﻿Singling 1.0.2 for 1.09b/d, 1.13d
+﻿Singling 1.0.3 for 1.07 - 1.13d
 By Jonathan Vasquez (FearedBliss)
-Released on Sunday, September 22, 2013
+Released on Monday, September 30, 2013
 ------------------------------------------------
 
 .
-├── 1.09bd
-│   ├── 1.09b
-│   │   └── D2gfx.dll
-│   ├── 1.09d
-│   │   └── D2gfx.dll
-│   └── Patch_D2.mpq
-├── 1.13d
-│   ├── D2gfx.dll
-│   └── Patch_D2.mpq
 ├── CHANGES.txt
 ├── CREDITS.txt
 ├── FILES.txt
+├── Files
+│   ├── 1.07
+│   │   ├── D2gfx.dll
+│   │   └── data
+│   │       ├── global
+│   │       │   └── ui
+│   │       │       └── FrontEnd
+│   │       │           ├── gameselectscreenEXP.dc6
+│   │       │           └── trademarkscreenEXP.dc6
+│   │       └── local
+│   │           └── lng
+│   │               └── eng
+│   │                   └── expansionstring.tbl
+│   ├── 1.08
+│   │   ├── D2gfx.dll
+│   │   └── Patch_D2.mpq
+│   ├── 1.09d
+│   │   ├── D2gfx.dll
+│   │   └── Patch_D2.mpq
+│   ├── 1.10f
+│   │   ├── D2gfx.dll
+│   │   └── Patch_D2.mpq
+│   ├── 1.11b
+│   │   ├── D2gfx.dll
+│   │   └── Patch_D2.mpq
+│   ├── 1.12a
+│   │   ├── D2gfx.dll
+│   │   └── Patch_D2.mpq
+│   └── 1.13d
+│       ├── D2gfx.dll
+│       └── Patch_D2.mpq
 ├── INSTALL.txt
 ├── Modding
 │   ├── Changes
-│   │   ├── 1.09bd
+│   │   ├── 1.07_1.08
 │   │   │   └── data
 │   │   │       ├── global
+│   │   │       │   └── ui
+│   │   │       │       └── FrontEnd
+│   │   │       │           ├── gameselectscreenEXP.dc6
+│   │   │       │           └── trademarkscreenEXP.dc6
+│   │   │       └── local
+│   │   │           └── lng
+│   │   │               └── eng
+│   │   │                   └── expansionstring.tbl
+│   │   ├── 1.09d
+│   │   │   └── data
+│   │   │       ├── global
+│   │   │       │   └── ui
+│   │   │       │       └── FrontEnd
+│   │   │       │           ├── gameselectscreenEXP.dc6
+│   │   │       │           └── trademarkscreenEXP.dc6
+│   │   │       └── local
+│   │   │           └── lng
+│   │   │               └── eng
+│   │   │                   ├── expansionstring.tbl
+│   │   │                   └── patchstring.tbl
+│   │   ├── 1.10f
+│   │   │   └── data
+│   │   │       ├── global
+│   │   │       │   ├── excel
+│   │   │       │   │   └── Runes.txt
+│   │   │       │   └── ui
+│   │   │       │       └── FrontEnd
+│   │   │       │           ├── gameselectscreenEXP.dc6
+│   │   │       │           └── trademarkscreenEXP.dc6
+│   │   │       └── local
+│   │   │           └── lng
+│   │   │               └── eng
+│   │   │                   ├── expansionstring.tbl
+│   │   │                   └── patchstring.tbl
+│   │   ├── 1.11b_112a
+│   │   │   └── data
+│   │   │       ├── global
+│   │   │       │   ├── excel
+│   │   │       │   │   └── Runes.txt
 │   │   │       │   └── ui
 │   │   │       │       └── FrontEnd
 │   │   │       │           ├── gameselectscreenEXP.dc6
@@ -49,4 +110,4 @@ Released on Sunday, September 22, 2013
 │   └── WHATIS.txt
 └── README.txt
 
-22 directories, 22 files
+59 directories, 46 files
