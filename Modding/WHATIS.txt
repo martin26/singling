@@ -1,16 +1,12 @@
-Singling 1.0.3 for 1.07 - 1.13d
+Singling 1.0.4 for 1.11b - 1.13d
 By Jonathan Vasquez (FearedBliss)
-Released on Monday, September 30, 2013
+Released on Friday, October 4, 2013
 ------------------------------------------------
 
-1.07 - 1.12a
------------------
-D2gfx.dll 
-	- Multiple Diablo II Windows
-
-expansionstring.tbl, patchstring.tbl - Strings for Colored Runes
-
-1.10f - 1.13d
+1.11b - 1.13d
 -----------------
 Runes.txt - Runewords
 
+D2gfx.dll - Multiple Diablo II Windows
+
+expansionstring.tbl, patchstring.tbl - Strings for Colored Runes

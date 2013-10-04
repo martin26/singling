@@ -1,7 +1,11 @@
-Singling 1.0.3 for 1.07 - 1.13d
+Singling 1.0.4 for 1.11b - 1.13d
 By Jonathan Vasquez (FearedBliss)
-Released on Monday, September 30, 2013
+Released on Friday, October 4, 2013
 ------------------------------------------------
+
+1.0.4
+-------------------
+- Completely removed support for all versions before 1.11b.
 
 1.0.3
 -------------------
