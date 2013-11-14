@@ -3,6 +3,10 @@ By Jonathan Vasquez (FearedBliss)
 Released on Sunday, October 14, 2013
 ------------------------------------------------
 
+1.0.4-r2
+-------------------
+- Removed the "Singling <Version>" from the Title Screens for 1.11-1.13
+
 1.0.4-r1
 -------------------
 - Added limited support for versions 1.07, 1.08, 1.09b/d, and 1.10f by only including the modified D2gfx.dll.
