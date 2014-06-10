@@ -1,18 +1,15 @@
-﻿Singling 1.0.4 for 1.07 - 1.13d
-By Jonathan Vasquez (FearedBliss)
-Released on Sunday, October 14, 2013
+Singling 1.0.5 for 1.07 - 1.13d
+By Jonathan Vasquez (fearedbliss)
+Released on Tuesday, June 10, 2014
 ------------------------------------------------
 
 .
 ├── CHANGES.txt
 ├── CREDITS.txt
-├── FILES.txt
 ├── Files
 │   ├── 1.07
 │   │   └── D2gfx.dll
 │   ├── 1.08
-│   │   └── D2gfx.dll
-│   ├── 1.09b
 │   │   └── D2gfx.dll
 │   ├── 1.09d
 │   │   └── D2gfx.dll
@@ -55,11 +52,8 @@ Released on Sunday, October 14, 2013
 │   │                       └── trademarkscreenEXP.dc6
 │   ├── Code_Edits
 │   │   └── D2gfx_Multiple_D2_Windows.txt
-│   ├── GIMP Images
-│   │   ├── gameselectscreenEXP.xcf
-│   │   └── trademarkscreenEXP.xcf
 │   ├── README.txt
 │   └── WHATIS.txt
 └── README.txt
 
-28 directories, 29 files
+26 directories, 25 files
