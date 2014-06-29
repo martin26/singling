@@ -31,7 +31,11 @@ HOW TO FIND THE OFFSET:
    
 1.07 Offset : 445C
 1.08 Offset : 447C
+1.09a Offset: 447C
+1.09b Offset: 447C
 1.09d Offset: 447C
+1.10b Offset: 446A
+1.10s Offset: 446A
 1.10f Offset: 446A
 1.11b Offset: 84AF
 1.12a Offset: 894F
