@@ -7,6 +7,10 @@ compatible with the ideas and philosophies of the SPF Community (Single Player F
 
 Credits are also given to all other members that have contributed feedback in the Diablo IncGamers SPF.
 
+- Myhrginoc at the PhrozenKeep for the Allow Hardcore stuff. It allowed me to locate all of
+  the other hardcore code for the rest of the versions much quicker!
+  http://d2mods.info/forum/viewtopic.php?f=8&t=38106&hilit=enable+hardcore+1.09
+
 The respective communities can be found below:
 
 PhrozenKeep: http://phrozenkeep.hugelaser.com/

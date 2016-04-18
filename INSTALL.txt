@@ -1,6 +1,6 @@
-Singling 1.1.0 for 1.07 - 1.13d
+Singling 1.2.0 for 1.07 - 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, June 29, 2014
+Released on Sunday, April 17, 2016
 ------------------------------------------------
 
 Installation:

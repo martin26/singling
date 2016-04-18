@@ -1,7 +1,12 @@
-Singling 1.1.0 for 1.07 - 1.13d
+Singling 1.2.0 for 1.07 - 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, June 29, 2014
+Released on Sunday, April 17, 2016
 ------------------------------------------------
+
+1.2.0
+-------------------
+- You can now make hardcore characters without having to beat softcore
+  for every version below 1.13 (1.13 lifted the requirement).
 
 1.1.0
 -------------------

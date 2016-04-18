@@ -1,11 +1,15 @@
-Singling 1.1.0 for 1.07 - 1.13d
+Singling 1.2.0 for 1.07 - 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, June 29, 2014
+Released on Sunday, April 17, 2016
 ------------------------------------------------
 
 1.07 - 1.13d
 -----------------
 D2gfx.dll - Multiple Diablo II Windows
+
+1.07 - 1.12a
+-----------------
+D2Launch.dll - Allow hardcore character creation without having to beat softcore.
 
 1.11b - 1.13d
 -----------------

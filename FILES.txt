@@ -1,6 +1,6 @@
-Singling 1.0.5 for 1.07 - 1.13d
+Singling 1.2.0 for 1.07 - 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Tuesday, June 10, 2014
+Released on Sunday, April 17, 2016
 ------------------------------------------------
 
 .
@@ -8,22 +8,41 @@ Released on Tuesday, June 10, 2014
 ├── CREDITS.txt
 ├── Files
 │   ├── 1.07
-│   │   └── D2gfx.dll
+│   │   ├── D2gfx.dll
+│   │   └── D2Launch.dll
 │   ├── 1.08
-│   │   └── D2gfx.dll
+│   │   ├── D2gfx.dll
+│   │   └── D2Launch.dll
+│   ├── 1.09
+│   │   ├── D2gfx.dll
+│   │   └── D2Launch.dll
+│   ├── 1.09b
+│   │   ├── D2gfx.dll
+│   │   └── D2Launch.dll
 │   ├── 1.09d
-│   │   └── D2gfx.dll
+│   │   ├── D2gfx.dll
+│   │   └── D2Launch.dll
+│   ├── 1.10b
+│   │   ├── D2gfx.dll
+│   │   └── D2Launch.dll
 │   ├── 1.10f
-│   │   └── D2gfx.dll
+│   │   ├── D2gfx.dll
+│   │   └── D2Launch.dll
+│   ├── 1.10s
+│   │   ├── D2gfx.dll
+│   │   └── D2Launch.dll
 │   ├── 1.11b
 │   │   ├── D2gfx.dll
+│   │   ├── D2Launch.dll
 │   │   └── Patch_D2.mpq
 │   ├── 1.12a
 │   │   ├── D2gfx.dll
+│   │   ├── D2Launch.dll
 │   │   └── Patch_D2.mpq
 │   └── 1.13d
 │       ├── D2gfx.dll
 │       └── Patch_D2.mpq
+├── FILES.txt
 ├── INSTALL.txt
 ├── Modding
 │   ├── Changes
@@ -51,9 +70,10 @@ Released on Tuesday, June 10, 2014
 │   │                       ├── gameselectscreenEXP.dc6
 │   │                       └── trademarkscreenEXP.dc6
 │   ├── Code_Edits
-│   │   └── D2gfx_Multiple_D2_Windows.txt
+│   │   ├── D2gfx_Multiple_D2_Windows.txt
+│   │   └── D2Launch_Allow_Hardcore.txt
 │   ├── README.txt
 │   └── WHATIS.txt
 └── README.txt
 
-26 directories, 25 files
+30 directories, 41 files
