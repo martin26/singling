@@ -11,6 +11,8 @@ Credits are also given to all other members that have contributed feedback in th
   the other hardcore code for the rest of the versions much quicker!
   http://d2mods.info/forum/viewtopic.php?f=8&t=38106&hilit=enable+hardcore+1.09
 
+- FrozenKeep & Nefarius for the 1.00 - 1.06 Multi Instance DLL.
+
 The respective communities can be found below:
 
 PhrozenKeep: http://phrozenkeep.hugelaser.com/

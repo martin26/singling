@@ -1,12 +1,14 @@
-Singling 1.2.0 for 1.07 - 1.13d
+Singling 1.3.0 for 1.00 - 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, April 17, 2016
+Released on Friday, July 22, 2016
 ------------------------------------------------
 
 .
 ├── CHANGES.txt
 ├── CREDITS.txt
 ├── Files
+│   ├── 1.00-1.06
+│   │   └── D2gfx.dll
 │   ├── 1.07
 │   │   ├── D2gfx.dll
 │   │   └── D2Launch.dll
@@ -44,6 +46,11 @@ Released on Sunday, April 17, 2016
 │       └── Patch_D2.mpq
 ├── FILES.txt
 ├── INSTALL.txt
+├── Mini-Images
+│   ├── D2_CLASSIC_MINI.mdf
+│   ├── D2_CLASSIC_MINI.mds
+│   ├── D2_LOD_MINI.mdf
+│   └── D2_LOD_MINI.mds
 ├── Modding
 │   ├── Changes
 │   │   ├── 1.11b_112a
@@ -76,4 +83,4 @@ Released on Sunday, April 17, 2016
 │   └── WHATIS.txt
 └── README.txt
 
-30 directories, 41 files
+32 directories, 46 files
