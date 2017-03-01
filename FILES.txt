@@ -1,7 +1,7 @@
-Singling 1.3.0 for 1.00 - 1.13d
+Singling 1.4.0 for 1.00 - 1.14d
 By Jonathan Vasquez (fearedbliss)
-Released on Friday, July 22, 2016
-------------------------------------------------
+Released on March 1, 2017
+-----------------------------------
 
 .
 ├── CHANGES.txt
@@ -41,9 +41,12 @@ Released on Friday, July 22, 2016
 │   │   ├── D2gfx.dll
 │   │   ├── D2Launch.dll
 │   │   └── Patch_D2.mpq
-│   └── 1.13d
-│       ├── D2gfx.dll
-│       └── Patch_D2.mpq
+│   ├── 1.13d
+│   │   └── D2gfx.dll
+│   ├── 1.13d-1.14d
+│   │   └── Patch_D2.mpq
+│   └── 1.14d
+│       └── Game.exe
 ├── FILES.txt
 ├── INSTALL.txt
 ├── Mini-Images
@@ -56,26 +59,18 @@ Released on Friday, July 22, 2016
 │   │   ├── 1.11b_112a
 │   │   │   └── data
 │   │   │       ├── global
-│   │   │       │   ├── excel
-│   │   │       │   │   └── Runes.txt
-│   │   │       │   └── ui
-│   │   │       │       └── FrontEnd
-│   │   │       │           ├── gameselectscreenEXP.dc6
-│   │   │       │           └── trademarkscreenEXP.dc6
+│   │   │       │   └── excel
+│   │   │       │       └── Runes.txt
 │   │   │       └── local
 │   │   │           └── lng
 │   │   │               └── eng
 │   │   │                   ├── expansionstring.tbl
 │   │   │                   └── patchstring.tbl
-│   │   └── 1.13d
+│   │   └── 1.13d-1.14d
 │   │       └── data
 │   │           └── global
-│   │               ├── excel
-│   │               │   └── Runes.txt
-│   │               └── ui
-│   │                   └── FrontEnd
-│   │                       ├── gameselectscreenEXP.dc6
-│   │                       └── trademarkscreenEXP.dc6
+│   │               └── excel
+│   │                   └── Runes.txt
 │   ├── Code_Edits
 │   │   ├── D2gfx_Multiple_D2_Windows.txt
 │   │   └── D2Launch_Allow_Hardcore.txt
@@ -83,4 +78,4 @@ Released on Friday, July 22, 2016
 │   └── WHATIS.txt
 └── README.txt
 
-32 directories, 46 files
+30 directories, 43 files

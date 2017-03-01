@@ -13,6 +13,8 @@ Credits are also given to all other members that have contributed feedback in th
 
 - FrozenKeep & Nefarius for the 1.00 - 1.06 Multi Instance DLL.
 
+Credits to Lemma for providing the 1.14d Multi-Instance .exe Offset
+
 The respective communities can be found below:
 
 PhrozenKeep: http://phrozenkeep.hugelaser.com/

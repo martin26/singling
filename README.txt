@@ -1,7 +1,7 @@
-Singling 1.3.0 for 1.00 - 1.13d
+Singling 1.4.0 for 1.00 - 1.14d
 By Jonathan Vasquez (fearedbliss)
-Released on Friday, July 22, 2016
-------------------------------------------------
+Released on March 1, 2017
+-----------------------------------
 
 This is a light addon to improve the Single Player experience. The below
 features are modifications that are accepted by the Diablo IncGamers Single
@@ -18,8 +18,9 @@ This bundle supports the following versions:
 - 1.11b
 - 1.12a
 - 1.13d
+- 1.14d
 
-1.00 - 1.13d
+1.00 - 1.14d
 -------------------
 - You can now run multiple clients of Diablo II.
 
@@ -45,3 +46,4 @@ Mini-Images
   versions of Diablo II (or to Time Travel) to be able to easily do that.
 
   You will need DAEMON Tools or another ISO application for this to work.
+  * Note: Not all ISO apps work with these mini-images (WinCDEmu doesn't work).
